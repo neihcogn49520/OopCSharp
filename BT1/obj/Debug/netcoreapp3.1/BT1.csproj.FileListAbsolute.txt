@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\bin\Debug\netcoreapp3.1\BT1.exe
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\bin\Debug\netcoreapp3.1\BT1.deps.json
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\bin\Debug\netcoreapp3.1\BT1.runtimeconfig.json
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\bin\Debug\netcoreapp3.1\BT1.runtimeconfig.dev.json
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\bin\Debug\netcoreapp3.1\BT1.dll
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\bin\Debug\netcoreapp3.1\BT1.pdb
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\obj\Debug\netcoreapp3.1\BT1.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\obj\Debug\netcoreapp3.1\BT1.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\obj\Debug\netcoreapp3.1\BT1.AssemblyInfo.cs
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\obj\Debug\netcoreapp3.1\BT1.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\obj\Debug\netcoreapp3.1\BT1.dll
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\obj\Debug\netcoreapp3.1\BT1.pdb
+C:\Users\dell\source\repos\BT_BUOI3_11_7\BT1\obj\Debug\netcoreapp3.1\BT1.genruntimeconfig.cache
